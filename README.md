@@ -1,2 +1,2 @@
 # matrix
-введите в терминал: python3 xmatrix.py
+введите в терминал: python xmatrix.py или xmatrix2.py
